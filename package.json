@@ -1,0 +1,19 @@
+{
+  "name": "vice_ebooks",
+  "version": "0.0.0",
+  "description": "Vice comment twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisbarless/vice_ebooks.git"
+  },
+  "author": "Chris Barless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbarless/vice_ebooks/issues"
+  },
+  "homepage": "https://github.com/chrisbarless/vice_ebooks"
+}
