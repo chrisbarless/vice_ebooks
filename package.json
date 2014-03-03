@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chrisbarless/vice_ebooks/issues"
   },
-  "homepage": "https://github.com/chrisbarless/vice_ebooks"
+  "homepage": "https://github.com/chrisbarless/vice_ebooks",
+  "dependencies": {
+    "twit": "^1.1.12"
+  }
 }
