@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/chrisbarless/vice_ebooks",
   "dependencies": {
-    "twit": "^1.1.12"
+    "twit": "^1.1.12",
+    "lodash": "^2.4.1",
+    "jsdom": "^0.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.0.15"
   }
 }
